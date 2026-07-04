@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clientsolutionspro.com/sitemap.xml

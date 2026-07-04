@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "clientsolutionspro.com",
+    "description": "",
+    "home_page_url": "https://clientsolutionspro.com",
+    "feed_url": "https://clientsolutionspro.com/feed.json",
+    "user_comment": "",
+    "icon": "https://clientsolutionspro.com/media/website/CSP2-2.png",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://clientsolutionspro.com/wonderful-projects.html",
+            "url": "https://clientsolutionspro.com/wonderful-projects.html",
+            "title": "wonderful projects",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://clientsolutionspro.com/media/posts/1/clientsolutionspro_inside_flyer.jpg\" alt=\"\" width=\"743\" height=\"576\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://clientsolutionspro.com/media/posts/1/responsive/clientsolutionspro_inside_flyer-xs.jpg 300w ,https://clientsolutionspro.com/media/posts/1/responsive/clientsolutionspro_inside_flyer-sm.jpg 480w ,https://clientsolutionspro.com/media/posts/1/responsive/clientsolutionspro_inside_flyer-md.jpg 768w ,https://clientsolutionspro.com/media/posts/1/responsive/clientsolutionspro_inside_flyer-lg.jpg 1024w\"></figure>\n<p> </p>",
+            "image": "https://clientsolutionspro.com/media/posts/1/199x111.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-06T11:36:57-04:00",
+            "date_modified": "2026-06-06T11:50:52-04:00"
+        }
+    ]
+}
